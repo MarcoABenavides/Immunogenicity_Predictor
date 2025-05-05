@@ -1,0 +1,30 @@
+# Ignore model weights and checkpoints
+*.pt
+*.pth
+
+# Ignore images
+*.png
+*.jpg
+*.jpeg
+
+# Ignore data files
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.npy
+*.pdb
+
+# Ignore large raw data directories
+/data/
+/datasets/
+/outputs/
+/checkpoints/
+
+# Ignore temporary files
+*.log
+*.tmp
+*.bak
+
+# Mac/OS junk
+.DS_Store
