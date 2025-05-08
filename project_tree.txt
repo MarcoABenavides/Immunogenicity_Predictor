@@ -1,0 +1,76 @@
+.
+├── Saliency_maps.ipynb
+├── __pycache__
+│   ├── benchmark_ResNet18-multiclass.cpython-310.pyc
+│   ├── benchmark_ResNet18.cpython-39.pyc
+│   ├── benchmark_ResNet18_multiclass.cpython-310.pyc
+│   ├── gnn2_model.cpython-39.pyc
+│   └── gnn_model.cpython-39.pyc
+├── architectures
+│   ├── __pycache__
+│   │   ├── benchmark_ResNet18.cpython-310.pyc
+│   │   ├── benchmark_ResNet18_multiclass.cpython-310.pyc
+│   │   ├── cnn.cpython-310.pyc
+│   │   ├── cnn_multiclass.cpython-310.pyc
+│   │   ├── cnn_transformer_modules.cpython-310.pyc
+│   │   ├── gnn2_model.cpython-310.pyc
+│   │   ├── gnn_model.cpython-310.pyc
+│   │   └── hybrid_cnn_transformer.cpython-310.pyc
+│   ├── benchmark_ResNet18.py
+│   ├── benchmark_ResNet18_multiclass.py
+│   ├── cnn.py
+│   ├── cnn_multiclass.py
+│   ├── cnn_transformer_modules.py
+│   ├── gnn2_model.py
+│   ├── gnn_model.py
+│   ├── hybrid_cnn_transformer.py
+│   └── saved_models
+│       └── resnet18_multiclass.pth
+├── data_preprocessing
+│   ├── Encoded-Sequence.ipynb
+│   ├── PDB extraction.ipynb
+│   ├── bacterial_dataset_antigens
+│   │   ├── pdb_files
+│   │   └── voronoi_images
+│   └── data_augmentation.ipynb
+├── datasets
+│   ├── binary_dataset
+│   │   ├── binary
+│   │   ├── graph_datasets
+│   │   └── image_datasets
+│   ├── data_augmented_multiclass_dataset
+│   │   ├── image_datasets
+│   │   └── multiclass
+│   ├── multiclass_dataset
+│   │   ├── graph_datasets
+│   │   ├── image_datasets
+│   │   └── multiclass
+│   └── original_datasets
+│       ├── bacterial_antigens
+│       ├── bacterial_non_antigens
+│       ├── tumor_antigens_immunogenic
+│       └── tumor_antigens_non-immunogenic
+├── main.ipynb
+├── missing_csv_log.txt
+├── output_folder
+│   ├── 1djr_mapping.json
+│   ├── 4z18_mapping.json
+│   ├── 4z18_original.html
+│   ├── 4z18_saliency.html
+│   ├── 4z18_saliency_vs_original.html
+│   ├── AF-F8WDI9-F1_mapping.json
+│   ├── AF-F8WDI9-F1_original.html
+│   ├── AF-F8WDI9-F1_saliency.html
+│   ├── AF-F8WDI9-F1_saliency_vs_original.html
+│   ├── AF-P44831-F1_mapping.json
+│   ├── AF-P44831-F1_original.html
+│   ├── AF-P44831-F1_saliency.html
+│   ├── AF-P44831-F1_saliency_vs_original.html
+│   ├── AF-P9WG27-F1_mapping.json
+│   ├── AF-P9WG27-F1_original.html
+│   ├── AF-P9WG27-F1_saliency.html
+│   ├── AF-P9WG27-F1_saliency_vs_original.html
+│   └── AF_REMOTE_AF-P44831-F1_mapping.json
+└── project_tree.txt
+
+27 directories, 47 files
