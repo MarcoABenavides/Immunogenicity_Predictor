@@ -1,4 +1,4 @@
-# Protein Classification Project
+# Predicting Protein Immunogenicity Using Deep Learning and Voronoi Diagrams
 
 This repository contains code and data pipelines for training and evaluating deep learning models on immunogenicity classification tasks using protein sequences and structure-derived features.
 
