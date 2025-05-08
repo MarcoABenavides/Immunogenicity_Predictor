@@ -145,7 +145,7 @@ Supported classes:
 
 | 3D Saliency Overlay                                       |
 | --------------------------------------------------------- |
-| [View Saliency](3D_Saliency_Example.png) |
+| ![View Saliency](3D_Saliency_Example.png) |
 > Open the HTML files in a web browser to interactively rotate and inspect the highlighted saliency regions.
 
 ---
