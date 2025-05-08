@@ -141,7 +141,7 @@ Supported classes:
 
 | Voronoi Projection              | 3D Saliency Overlay                                       |
 | ------------------------------- | --------------------------------------------------------- |
-| ![Voronoi](Voronoi_Example.png) | [View Saliency](output_folder/AF-P9WG27-F1_saliency.html) |
+| ![Voronoi](Voronoi_Example.png) | [View Saliency](3D_Saliency_Example.png) |
 
 > Open the HTML files in a web browser to interactively rotate and inspect the highlighted saliency regions.
 
