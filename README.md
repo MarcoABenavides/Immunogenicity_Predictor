@@ -139,10 +139,13 @@ Supported classes:
 
 ### Sample Visualizations
 
-| Voronoi Projection              | 3D Saliency Overlay                                       |
-| ------------------------------- | --------------------------------------------------------- |
-| ![Voronoi](Voronoi_Example.png) | [View Saliency](3D_Saliency_Example.png) |
+| Voronoi Projection              
+| ------------------------------- 
+| ![Voronoi](Voronoi_Example.png) 
 
+| 3D Saliency Overlay                                       |
+| --------------------------------------------------------- |
+| [View Saliency](3D_Saliency_Example.png) |
 > Open the HTML files in a web browser to interactively rotate and inspect the highlighted saliency regions.
 
 ---
