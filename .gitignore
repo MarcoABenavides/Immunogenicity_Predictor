@@ -4,6 +4,8 @@
 
 # Ignore images
 *.png
+!Voronoi_Example.png
+!3D_Saliency_Example.png
 *.jpg
 *.jpeg
 
